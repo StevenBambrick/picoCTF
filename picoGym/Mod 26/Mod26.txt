@@ -1,0 +1,8 @@
+Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_nSkgmDJE}
+
+1. Open https://cyberchef.io
+2. Select/Search for the  Rot13 operation
+3. Copy Rot13 to the recipe pane
+4. Copy the encoded flag into the input pane
+5. The decrypted flag is revealed
+
