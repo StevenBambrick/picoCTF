@@ -1,0 +1,8 @@
+Description
+This file has a flag in plain sight (aka "in-the-clear"). Download flag.
+
+1. Download the flag file and view it
+	$ cat flag
+
+2. The flag is revealed
+
