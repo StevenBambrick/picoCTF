@@ -1,0 +1,7 @@
+
+1. Download the python script, the password and the encrypted file
+2. Review the python script for its usage
+3. Run "python ende.py -d flag.txt.en"
+4. Enter the password from pw.txt
+5. The flag is revealed
+
